@@ -1,0 +1,14 @@
+<instance version="4" description="" template="paint">
+	<uniqueid name="pbgid" value="110366" />
+	<group name="paint_bag">
+		<colour name="specular" value="4283716692" />
+		<colour name="diffuse" value="4278190080" />
+		<int name="gloss" value="64" />
+		<locstring name="name" value="0" />
+		<list name="availability_tags">
+		</list>
+		<list name="inventory_item_categories">
+		</list>
+		<float name="ui_specular_modifier" value="1" />
+	</group>
+</instance>
